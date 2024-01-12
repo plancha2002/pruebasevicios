@@ -1,0 +1,89 @@
+Portero 2: La sala esta vacia
+Portero 1: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 1: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 2: Un cliente ha salido.0
+Portero 2: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 2: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 2: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 2: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 2: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 1: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 2: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 2: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 1: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 2: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 1: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 2: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 2: Entro un cliente hay 2
+Portero 2: Un cliente ha salido.1
+Portero 2: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 1: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 2: Un cliente ha salido.0
+Portero 1: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 1: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 1: Entro un cliente hay 2
+Portero 2: Un cliente ha salido.1
+Portero 1: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 1: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 2: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 1: Entro un cliente hay 1
+Portero 2: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 2: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 1: Entro un cliente hay 2
+Portero 1: Un cliente ha salido.1
+Portero 2: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 2: La sala esta vacia
+Portero 2: Entro un cliente hay 1
+Portero 2: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 2: La sala esta vacia
+Portero 1: Entro un cliente hay 1
+Portero 2: Entro un cliente hay 2
+Portero 1: Entro un cliente hay 3
+Portero 1: Un cliente ha salido.2
+Portero 2: Un cliente ha salido.1
+Portero 2: Un cliente ha salido.0
+Portero 2: Entro un cliente hay 1
+Portero 1: Un cliente ha salido.0
+Portero 1: La sala esta vacia
+Portero 2: La sala esta vacia
+Portero 2: Entro un cliente hay 1
